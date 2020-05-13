@@ -6,8 +6,9 @@ Le PMenu est un framework de menu. Qui à été créer par [PichotM](https://git
 C'est un style de menu complètement différent des menus qu'on peux voir : [NativeUI](https://github.com/Guad/NativeUI/) ou encore [RageUI](https://github.com/iTexZoz/RageUI).
 
 # :lock: **Requirements:**
-ESX [https://github.com/ESX-Org]
-PMenu (Directement dans le Lkd_police, le dossier main_menu)
+- ESX [https://github.com/ESX-Org]
+- PMenu (Directement dans le Lkd_police, le dossier main_menu)
+- Vdk_call [https://github.com/vodkhard/vdk_call]
 
 # :gear: **Comment l'installer**
 
